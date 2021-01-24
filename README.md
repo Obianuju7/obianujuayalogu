@@ -1,8 +1,8 @@
 # Obianuju Ayalogu
 ## 11, Leye Pratt Street, Isheri, Ojodu Berger, Lagos State
-### <obianuju.ayalogu@gmail.com>(email)
+### <obianuju.ayalogu@gmail.com>
 
-##BIO
+#BIO
 I am a quality oriented professional with over 6 years of experience. I am also a software engineering, data analyst student in training and very much interested in learning new things. 
 
 EXPERIENCE
